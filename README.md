@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+In this repo, I have two branchs 
+1. Main ( using props system)
+2. used-context-system (refector the props system to context system)
+
+- Both works exactly same, but implementation is deferance.
+
 
 ## Available Scripts
 
